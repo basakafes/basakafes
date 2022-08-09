@@ -23,9 +23,9 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basakafes&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="basakafes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basakafes&show_icons=true&theme=tokyonight&hide_border=false&locale=en&layout=compact" alt="basakafes" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=basakafes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=basakafes&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 basakafes/basakafes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
